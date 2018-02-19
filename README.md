@@ -31,19 +31,19 @@ the node points LS of spherical Lissajous curves. The description of the spheric
 Lissajous curves, the point sets LS and the spectral interpolation scheme can be found in [1]. 
 
 The main test file for interpolation at spherical Lissajous node points is
-main_example.m
+- main_example.m
 
 For plotting spherical Lissajous curves and the LS points use
-Lissajous_example.m
+- Lissajous_example.m
 
 To plot one of the fundamental Lagrange functions of the interpolation scheme use
-Lagrange_example.m
+- Lagrange_example.m
 
 To test the plot program on the sphere use
-sphereplotter_example.m
+- sphereplotter_example.m
 
 For an application of the interpolation scheme in estimating the rotation of objects try
-navigator_nls_example.m
+- navigator_nls_example.m
 
 
 
