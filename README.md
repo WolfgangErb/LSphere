@@ -46,7 +46,7 @@ The general construction of the interpolation scheme based on the node points of
 
 *   [1] &nbsp; Erb, W. <br>
     <i> A spectral interpolation scheme on the unit sphere based on the node points of spherical Lissajous curves </i> <br>
-    arXiv:1802.00557 [math.NA] (2018) 
+    arXiv:1802.06546 [math.NA] (2018) 
 
 
 License
