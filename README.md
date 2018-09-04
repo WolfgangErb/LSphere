@@ -1,6 +1,6 @@
 # LSphere
 
-Spectral interpolation at the node points of spherical Lissajous curves
+Spectral interpolation at the nodes of spherical Lissajous curves
 --------------------------------------------------------------------------------
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/sphere.png" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/sphere2.png" width="370"> 
@@ -12,9 +12,8 @@ Written by <a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
 Description
 -----------
 
-The package LSphere contains a Matlab-implementation for spectral interpolation on 
-the node points LS of spherical Lissajous curves. The description of the spherical
-Lissajous curves, the point sets LS and the spectral interpolation scheme can be found in [1]. 
+The package LSphere contains a Matlab-implementation to calculate a spectral interpolation on the sphere from data given on the nodes of spherical Lissajous curves. The description of the spherical
+Lissajous curves, the Lissajous node sets and the spectral interpolation scheme can be found in [1]. 
 
 <br><br>
 
@@ -45,7 +44,7 @@ The general construction of the interpolation scheme based on the node points of
 
 
 *   [1] &nbsp; Erb, W. <br>
-    <i> A spectral interpolation scheme on the unit sphere based on the node points of spherical Lissajous curves </i> <br>
+    <i> A spectral interpolation scheme on the unit sphere based on the nodes of spherical Lissajous curves </i> <br>
     arXiv:1802.06546 [math.NA] (2018) 
 
 
